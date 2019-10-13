@@ -34,3 +34,4 @@ docker run -p 2121:2121 -p 60000-60009:60000-60009 --rm <tag>
 
 Now you can FTP to localhost:2121 to get to the FTP server inside the container.
 
+Login and password are test and test respectively.
